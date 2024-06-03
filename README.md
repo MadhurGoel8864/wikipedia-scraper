@@ -2,6 +2,9 @@
 # Wikipedia Scraper
 This project is a Wikipedia scraper tool designed to retrieve Wikipedia articles on any given topic provided by the user. It utilizes the BeautifulSoup (bs4) and Requests libraries to scrape data from Wikipedia pages. Additionally, the project is deployed on Streamlit, allowing for a user-friendly interface.
 
+# Deployed Link
+https://wikipedia-scraper-madhur.streamlit.app/
+
 ## Features
 
 - Scrapes Wikipedia articles based on user-provided topics.
